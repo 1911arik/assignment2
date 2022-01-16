@@ -1,0 +1,382 @@
+
+
+H3 {
+
+margin-left:18px; 
+
+padding-left:10px; 
+
+padding-top:10px;
+
+font-family: 'Dongle', sans-serif;  
+
+font-size: 39px;
+
+} 
+
+
+.image{
+
+background-image:url(main-camera.png); 
+
+background-repeat:no-repeat; 
+
+background-size:330px 300px; 
+
+padding-top:295px;
+
+background-position: top right; 
+
+
+}
+
+.header{
+
+margin-top:115px; 
+padding-left:17px;
+
+padding-bottom: 19px;
+
+font-family: 'Noto Sans', sans-serif;
+
+
+
+} 
+
+
+
+
+
+
+.header-content{
+
+
+padding-left:17px ; 
+
+text-align:justify;
+
+
+padding-bottom:67px; 
+
+padding-right: 60px; 
+
+font-family: 'Rubik', sans-serif;
+
+font-size: 22px;
+
+margin-right:855px; 
+
+
+
+
+
+
+
+}  
+
+.icon {
+
+     font-size: 12px;
+      color: white; 
+      background-color:rgb(255, 15, 95);
+      padding: 6px 17px; 
+      border-radius: 5px;
+     
+      
+} 
+
+.nine-columns{
+
+
+
+padding:20px;
+
+margin-left:255px; 
+
+margin-right:23px; 
+
+
+
+}
+
+#grid {
+
+     display: grid;
+     height: 1007px;
+     width:820px;
+     grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+     gap: 20px 10px;
+}
+   
+   #grid > div {
+     border: 1px solid rgb(12, 14, 12);
+     background-color: rgb(255, 255, 255);
+   }
+     
+    
+
+
+.B1{
+
+
+background-image:url(tripod.png) ; 
+
+background-repeat: no-repeat;
+
+background-size: 300px 208px;
+
+
+} 
+
+.c1{
+
+
+padding-left:10px;
+padding-top: 233px;
+font-size: 18px;
+
+} 
+
+
+
+.B2{
+
+
+     
+
+background-image:url(mic.png) ; 
+
+background-repeat: no-repeat;
+
+background-size: 300px 208px;
+     
+     
+     } 
+     
+     .c2{
+     
+     
+     padding-left: 10px;
+     padding-top: 233px;
+     font-size: 18px;
+     
+     } 
+
+
+     
+
+.B3{
+
+
+     
+background-image:url(airpod.png) ; 
+
+background-repeat: no-repeat;
+
+background-size: 300px 208px;
+     
+     
+     } 
+     
+     .c3{
+     
+     
+     padding-left:10px;
+     padding-top: 233px;
+     font-size: 18px;
+     
+     }
+
+
+     
+
+.B4{
+
+
+     
+background-image:url(drone.png) ; 
+
+background-repeat: no-repeat;
+
+background-size: 300px 208px;
+     
+     
+     } 
+     
+     .c4{
+     
+     
+     padding-left:10px;
+     padding-top: 233px;
+     font-size: 18px;
+     
+     } 
+
+     
+
+.B5{
+
+
+    
+background-image:url(lights.png) ; 
+
+background-repeat: no-repeat;
+
+background-size: 300px 208px;
+     
+     
+     } 
+     
+     .c5{
+     
+     
+     padding-left:10px;
+     padding-top: 233px;
+     font-size: 18px;
+     
+     } 
+
+
+     
+
+.B6{
+
+
+     
+background-image:url(setup.png) ; 
+
+background-repeat: no-repeat;
+
+background-size: 300px 208px;
+     
+     
+     } 
+     
+     .c6{
+     
+     
+     padding-left:10px;
+     padding-top: 233px;
+
+     font-size: 18px;
+     
+     }
+
+     
+
+.B7{
+
+
+     background-image:url(camera.png) ; 
+
+     background-repeat: no-repeat;
+     
+     background-size: 300px 208px;
+     
+     
+     } 
+     
+     .c7{
+     
+     
+     padding-left:10px;
+     padding-top: 233px;
+
+     font-size: 18px;
+     
+     } 
+
+     
+
+.B8{
+
+
+    
+background-image:url(single-light.png) ; 
+
+background-repeat: no-repeat;
+
+background-size: 300px 208px;
+     
+     
+     } 
+     
+     .c8{
+     
+     
+     padding-left:10px;
+     padding-top: 233px;
+     font-size: 18px;
+     
+     
+     } 
+
+
+     
+
+.B9{
+
+
+ 
+background-image:url(action.png) ; 
+
+background-repeat: no-repeat;
+
+background-size: 300px 208px;
+     
+     
+     } 
+     
+     .c9{
+     
+     
+     padding-left:10px;
+     padding-top: 233px;
+     font-size: 18px;
+     
+     
+     } 
+
+
+     
+.icon2 {
+
+     font-size: 12px;
+      color: white;
+     padding: 5px ; 
+      border-radius:3px; 
+      background-color:red;
+
+     
+      
+} 
+
+.b-position{
+
+
+
+     background-position: right; 
+
+     padding-left: 1020px;  
+
+     padding-bottom: 25px ;
+}
+
+.footer-section {
+
+     text-align:center;
+     background-color:black;
+     color:white; 
+     padding-bottom:73px;
+     padding-top:28px;
+     height:60px; 
+ 
+ 
+ 
+}  
+ 
+
+
+
+
+
